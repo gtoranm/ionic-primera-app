@@ -1,0 +1,7 @@
+{
+  "name": "MyFirtAppGTM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
